@@ -14,8 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hobbies!
-layout: single
-author_profile: false
 email:
 description: Photography, crafts, and other hobbies
 twitter_username: 
@@ -61,30 +59,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Photography, crafts, and other hobbies"
   links:
-    - label: "Professional Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://andykgreen.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/andykgreen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/andygreen-1"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/andykgreen"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/andykgreen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/andygreen-1"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/andykgreen"
 
 defaults:
   # _posts
