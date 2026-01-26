@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hobbies!
+layout: single
+author_profile: false
 email:
 description: Photography, crafts, and other hobbies
-twitter_username: andykgreen
-github_username: andygreen-1
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
