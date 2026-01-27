@@ -4,12 +4,16 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% assign categories = site.posts | map: 'categories' | join: ',' | split: ',' | uniq %}
 
-{% if paginator.posts %}
-  {% for post in paginator.posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-{% endif %}
-
-{% include paginator.html %}
+{% for category in categories %}
+  {% if category != "" %}
+    <h3 class="archive__subtitle">{{ category }}</h3>
+    
+    {% for post in site.posts %}
+      {% if post.categories contains category %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
