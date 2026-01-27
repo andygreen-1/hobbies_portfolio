@@ -4,16 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
-
-{% for post in site.posts %}
-  <article class="post">
-    {% if post.image %}
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-teaser" />
-      </a>
-    {% endif %}
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p>{{ post.excerpt }}</p>
-  </article>
-{% endfor %}
 ---
