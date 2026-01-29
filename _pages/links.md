@@ -8,6 +8,7 @@ title: "Links"
 <style>
   .social-links {
     display: flex;
+    flex-direction: column;
     gap: 20px;
     flex-wrap: wrap;
     margin-top: 20px;
@@ -32,10 +33,9 @@ title: "Links"
   }
 </style>
 
+## Social Media
+
 <div class="social-links">
-  <a href="https://andykgreen.com/" class="social-link" title="Professional Website">
-    <i class="fas fa-fw fa-link"></i> Professional Website
-  </a>
   <a href="http://instagram.com/andykgreen" class="social-link" title="Instagram">
     <i class="fab fa-instagram"></i> Instagram
   </a>
@@ -51,19 +51,32 @@ title: "Links"
   <a href="https://www.facebook.com/andykgreen1" class="social-link" title="Facebook">
     <i class="fab fa-facebook"></i> Facebook
   </a>
+</div>
+
+## Professional Stuff
+
+<div class="social-links">
+  <a href="https://andykgreen.com/" class="social-link" title="Professional Website">
+    <i class="fas fa-fw fa-link"></i> Professional Website
+  </a>
   <a href="http://www.linkedin.com/in/andykgreen" class="social-link" title="LinkedIn">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
   <a href="https://github.com/andygreen-1" class="social-link" title="GitHub">
     <i class="fab fa-github"></i> GitHub
   </a>
+</div>
+
+## Ratings/Reviews
+
+<div class="social-links">
   <a href="https://www.imdb.com/user/ur119965333/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0" class="social-link" title="IMDB">
-    <i class="fab fa-imdb"></i> TV Shows
+    <i class="fab fa-imdb"></i> IMDB
   </a>
   <a href="https://www.goodreads.com/review/list/82798545-andy-green?utf8=%E2%9C%93&shelf=read&title=andy-green&per_page=50" class="social-link" title="Goodreads">
-    <i class="fab fa-goodreads"></i> Books
+    <i class="fab fa-goodreads"></i> Goodreads
   </a>
   <a href="https://app.beliapp.com/lists/andykgreen" class="social-link" title="Beli">
-    <i class="fa-solid fa-bell"></i> Restaurants
+    <i class="fa-solid fa-bell"></i> Beli
   </a>
 </div>
