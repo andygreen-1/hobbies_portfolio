@@ -8,4 +8,4 @@ image: /assets/images/japan-vietnam-thailand/HLB1.JPG
 ---
 ## Ha Long Bay, Vietnam
 
-![HLB1](/assets/images/japan-vietnam-thailand/HLB1.JPG)
+![HLB1](assets/images/japan-vietnam-thailand/HLB1.JPG)
