@@ -43,10 +43,10 @@ title: "Links"
     <i class="fab fa-twitter"></i> Twitter
   </a>
   <a href="https://bsky.app/profile/andykgreen.bsky.social" class="social-link" title="Bluesky">
-    <i class="fa-brands fa-bluesky"></i> Bluesky
+    <i class="fa-solid fa-butterfly"></i> Bluesky
   </a>
   <a href="https://www.threads.net/@andykgreen" class="social-link" title="Threads">
-    <i class="fa-brands fa-threads"></i> Threads
+    <i class="fa-solid fa-reel"></i> Threads
   </a>
   <a href="https://www.facebook.com/andykgreen1" class="social-link" title="Facebook">
     <i class="fab fa-facebook"></i> Facebook
