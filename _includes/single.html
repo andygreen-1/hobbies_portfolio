@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% if page.header.teaser %}
+  {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = page.image %}
+{% endif %}
+
+{% include page__hero.html teaser=teaser %}
+
+<div id="main" role="main">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% include page__title.html %}
+    <div class="page__content e-content" itemprop="text">
+      {{ content }}
+    </div>
+    {% if page.link %}
+      <p><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></p>
+    {% endif %}
+  </article>
+</div>
