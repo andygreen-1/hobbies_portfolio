@@ -15,6 +15,6 @@
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
     <p class="page__meta"><span class="page__meta-date"><i class="far fa-calendar-alt"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></p>
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncatewords: 150 }}</p>{% endif %}
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncatewords: 150 }}</p>{% endif %} -->
   </article>
 </div>
