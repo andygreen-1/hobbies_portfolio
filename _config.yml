@@ -75,7 +75,6 @@ defaults:
       comments: false
       share: false
       related: false
-      show_date: false
   # _pages
   - scope:
       path: "_pages"

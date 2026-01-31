@@ -5,6 +5,7 @@ categories:
   - Photography
 tags:
 image: /assets/images/japan-vietnam-thailand/HLB1.JPG
+show_date: false
 ---
 ## Ha Long Bay, Vietnam
 
