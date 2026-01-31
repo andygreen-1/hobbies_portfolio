@@ -92,3 +92,5 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+lightbox: true
