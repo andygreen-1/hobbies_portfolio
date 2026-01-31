@@ -9,6 +9,5 @@ show_date: false
 ---
 ## Ha Long Bay, Vietnam
 
-![HLB1]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/HLB1.JPG)
 [![HLB1]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/HLB1.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/HLB1.JPG){:.image-popup}
 
