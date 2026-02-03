@@ -39,7 +39,7 @@ show_date: false
 
 [![KYO1]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO1.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO1.JPG){:.image-popup}
 
-[![KYO2]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO2.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO2.JPG){:.image-popup}
+[![KYO2]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO2.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO2.jpg){:.image-popup}
 
 [![KYO3]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO3.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/japan-vietnam-thailand/KYO3.JPG){:.image-popup}
 
