@@ -8,7 +8,7 @@ layout: archive
 
 {% for category in categories %}
   {% if category != "" %}
-    <h3 class="archive__subtitle">{{ category }}</h3>
+    <h2 class="archive__subtitle">{{ category }}</h2>
     
     {% for post in site.posts %}
       {% if post.categories contains category %}

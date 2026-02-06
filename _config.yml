@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Hobbies!
 email:
-description: Photography, crafts, and other hobbies
+description: Photography, crafts, and other projects
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Andy Green"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Photography, crafts, and other hobbies"
+  bio    : "Photography, crafts, and other projects"
   links: []
 
 footer:
