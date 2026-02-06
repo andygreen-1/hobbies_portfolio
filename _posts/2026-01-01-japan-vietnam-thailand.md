@@ -1,6 +1,6 @@
 ---
 title: "Japan/Vietnam/Thailand"
-date: 2026-01-01T15:34:30-04:00
+date: 2026-01-01T01:00:00-04:00
 categories:
   - Photography
 tags:
