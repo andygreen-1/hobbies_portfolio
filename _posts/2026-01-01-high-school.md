@@ -53,7 +53,7 @@ show_date: false
 
 [![HS23]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS23.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS23.jpg){:.image-popup}
 
-[![HS24]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS24.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS24.jpg){:.image-popup}
+[![HS24]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS24.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS24.JPG){:.image-popup}
 
 [![HS25]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS25.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS25.jpg){:.image-popup}
 
@@ -97,7 +97,7 @@ show_date: false
 
 [![HS45]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS45.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS45.jpg){:.image-popup}
 
-[![HS46]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS46.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS46.jpg){:.image-popup}
+[![HS46]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS46.JPG)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS46.JPG){:.image-popup}
 
 [![HS47]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS47.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS47.jpg){:.image-popup}
 
