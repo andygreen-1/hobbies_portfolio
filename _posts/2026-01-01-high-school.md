@@ -108,3 +108,9 @@ show_date: false
 [![HS50]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS50.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS50.jpg){:.image-popup}
 
 [![HS51]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS51.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/high-school/HS51.jpg){:.image-popup}
+
+{% include video id="d18GTY6VQ2c" provider="youtube" %}
+
+{% include video id="gDI4JP9LGjc" provider="youtube" %}
+
+{% include video id="1oiut3rCQPA" provider="youtube" %}
