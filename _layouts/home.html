@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-{% assign categories = site.posts | map: 'categories' | join: ',' | split: ',' | uniq %}
+{% assign categories = "Photography,Crafts,Other Projects" | split: ',' | uniq %}
 
 {% for category in categories %}
   {% if category != "" %}
