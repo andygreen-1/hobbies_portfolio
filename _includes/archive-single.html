@@ -11,7 +11,9 @@
     </h2>
     {% if teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ teaser | relative_url }}" alt="{{ post.title }}">
+        </a>
       </div>
     {% endif %}
     <!-- <p class="page__meta"><span class="page__meta-date"><i class="far fa-calendar-alt"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></p> -->
