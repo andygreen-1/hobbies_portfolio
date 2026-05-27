@@ -1,5 +1,5 @@
 ---
-title: "Gardening/Yard Care"
+title: "Gardening/Landscaping"
 date: 2026-01-01T07:00:00-04:00
 categories:
   - Crafts
