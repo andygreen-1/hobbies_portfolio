@@ -4,14 +4,10 @@ date: 2026-01-01T07:00:00-04:00
 categories:
   - Crafts
 tags:
-image: /assets/images/gardening/Gardening_teaser.jpg
+image: /assets/images/gardening/Gardening_teaser2.jpeg
 show_date: false
 ---
-When we bought our house in 2023, the yard was in pretty rough shape. The previous owners had neglected it, letting weeds take over the whole lawn and much of the surrounding area. There was trash and broken glass throughout. The only things planted in the ground were a couple of dead trees, and the backyard was bracketed by a rusty chainlink fence on one side and a crumbling wood fence on the other.
-
-Through a ton of hard work, we've brought it from "rough" to "presentable" and are slowly working toward "actually good". While the first few years skewed more toward clean-up and yard work/maintenance, I am hoping the next few skew more toward gardening and beautification. I think it'll be a while before I'm really satisfied with it, but I'm proud of the progress we've made so far.
-
-While the other pages on this site are focused on sharing finished work, this page is more about the journey. It shows what things looked like when we started, how they look today, and all of the intermediate changes we've made in between. My goal is to keep updating it as we continue making improvements over time!
+Tracking the changes to our yard/garden over time!
 
 ## Starting Point (March 2023)
 
@@ -158,7 +154,86 @@ While the other pages on this site are focused on sharing finished work, this pa
 
 ## Year 4 (2026)
 
-Coming soon!
+[![Gardening_26-01]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-01.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-01.jpeg){:.image-popup}
+<span class="small-text">Two cherry tomato plants (foreground) and two bell pepper plants (background), right after planting (May 2026).</span>
+
+[![Gardening_26-02]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-02.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-02.jpeg){:.image-popup}
+<span class="small-text">Two cherry tomato plants (left) and two bell pepper plants (right), a few months after planting (July 2026).</span>
+
+[![Gardening_26-03]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-03.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-03.jpeg){:.image-popup}
+<span class="small-text">The farmer with his first ever harvest (June 2026).</span>
+
+[![Gardening_26-04]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-04.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-04.jpeg){:.image-popup}
+<span class="small-text">A bountiful harvest (August 2026).</span>
+
+[![Gardening_26-05]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-05.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-05.jpeg){:.image-popup}
+<span class="small-text">More harvests (September 2026).</span>
+
+[![Gardening_26-06]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-06.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-06.jpeg){:.image-popup}
+<span class="small-text">Tomato plants (right) and bell pepper plants (left), close to their terminal sizes (September 2026).</span>
+
+[![Gardening_26-07]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-07.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-07.jpeg){:.image-popup}
+<span class="small-text">Bell pepper plants (October 2026).</span>
+
+[![Gardening_26-08]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-08.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-08.jpeg){:.image-popup}
+<span class="small-text">First fully ripened bell pepper (October 2026).</span>
+
+[![Gardening_26-09]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-09.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-09.jpeg){:.image-popup}
+<span class="small-text">Basil plants in their starter pot (July 2026).</span>
+
+[![Gardening_26-10]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-10.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-10.jpeg){:.image-popup}
+<span class="small-text">Basil plants close to their terminal size (September 2026).</span>
+
+[![Gardening_26-11]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-11.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-11.jpeg){:.image-popup}
+<span class="small-text">Japanese maple, shortly after planting and before it met its untimely demise. May it rest in peace (May 2026).</span>
+
+[![Gardening_26-12]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-12.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-12.jpeg){:.image-popup}
+<span class="small-text">Front grass came in nicely (May 2026).</span>
+
+[![Gardening_26-13]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-13.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-13.jpeg){:.image-popup}
+<span class="small-text">Front grass came in nicely (May 2026).</span>
+
+[![Gardening_26-15]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-15.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-15.jpeg){:.image-popup}
+<span class="small-text">Phlox and Tickseed in the front came back nicely (June 2026).</span>
+
+[![Gardening_26-16]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-16.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-16.jpeg){:.image-popup}
+<span class="small-text">Tickseed (June 2026).</span>
+
+[![Gardening_26-17]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-17.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-17.jpeg){:.image-popup}
+<span class="small-text">Front shrubs grew quite a bit over the course of the season. Expanded the front beds and created cleaner edges (October 2026).</span>
+
+[![Gardening_26-18]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-18.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-18.jpeg){:.image-popup}
+<span class="small-text">Azalea bush came back nicely (April 2026).</span>
+
+[![Gardening_26-19]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-19.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-19.jpeg){:.image-popup}
+<span class="small-text">Daisies came back nicely (June 2026).</span>
+
+[![Gardening_26-20]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-20.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-20.jpeg){:.image-popup}
+<span class="small-text">Black-eyed susans (June 2026).</span>
+
+[![Gardening_26-21]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-21.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-21.jpeg){:.image-popup}
+<span class="small-text">Phlox (May 2026).</span>
+
+[![Gardening_26-22]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-22.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-22.jpeg){:.image-popup}
+<span class="small-text">Other Phlox (June 2026).</span>
+
+[![Gardening_26-23]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-23.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-23.jpeg){:.image-popup}
+<span class="small-text">Rose bush (September 2026).</span>
+
+[![Gardening_26-24]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-24.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-24.jpeg){:.image-popup}
+<span class="small-text">Crapemyrtle (July 2026).</span>
+
+[![Gardening_26-25]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-25.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-25.jpeg){:.image-popup}
+<span class="small-text">Backyard, earlier in the season (June 2026).</span>
+
+[![Gardening_26-26]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-26.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-26.jpeg){:.image-popup}
+<span class="small-text">Backyard, later in the season (September 2026).</span>
+
+[![Gardening_26-27]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-27.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-27.jpeg){:.image-popup}
+<span class="small-text">Peperomia plant (indoor) keeps growing and sizing up pots! (October 2026).</span>
+
+[![Gardening_26-28]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-28.jpeg)]({{ site.url }}{{ site.baseurl }}/assets/images/gardening/Gardening_26-28.jpeg){:.image-popup}
+<span class="small-text">Neighbor's tree came down in a big storm. It crushed our Japanese maple and did some minor damage to the other landscaping, but we got lucky that it didn't do more damage to the house itself (September 2026).</span>
 
 
 <span class="small-text">*Done by professionals</span>
